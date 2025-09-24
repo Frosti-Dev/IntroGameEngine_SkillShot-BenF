@@ -8,6 +8,7 @@ TagManager:
   - GoalTrigger
   - ResetTrigger
   - BallSpawnPoint
+  - Enemy
   layers:
   - Default
   - TransparentFX
